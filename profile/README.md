@@ -18,4 +18,4 @@ The EffnerApp is the official school app for students and teachers of the Josef-
 * [Imprint](https://effner.app/imprint)
 * [Privacy](https://effner.app/privacy)
 
-© 2023 EffnerApp by Sebi & Luis
+© 2025 EffnerApp
